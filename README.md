@@ -769,6 +769,7 @@ GitHub 上 Star 数最高、最具话题度的单一用途 Skill。它们大多�
 | [**huifer/skill-security-scan**](https://github.com/huifer/skill-security-scan) | 安全扫描 | ![GitHub Repo stars](https://badgen.net/github/stars/huifer/skill-security-scan) | 安装第三方 Skill 前先做安全审查的命令行工具，检测窃取数据或破坏系统的恶意代码。 |
 | [**Xquik-dev/x-twitter-scraper**](https://github.com/Xquik-dev/x-twitter-scraper) | 数据抓取 | ![GitHub Repo stars](https://badgen.net/github/stars/Xquik-dev/x-twitter-scraper) | X/Twitter 数据抓取技能，提供 MCP 服务器与 REST API，含 20 个提取工具。 |
 | [**Continuum-AI-Corp/OrcaReplay**](https://github.com/Continuum-AI-Corp/OrcaReplay) | 运行录制回放 | ![GitHub Repo stars](https://badgen.net/github/stars/Continuum-AI-Corp/OrcaReplay) | 把 Skill / coding agent 与模型 provider 之间的真实请求原样录成本地 trace：`orca replay last` 断网重放，稳定复现一次失败的 Skill 调用；`orca compare` 从同一 checkpoint 换模型对照。自带 `orca mcp`（list/show/checkpoints/graph/replay/compare 六个工具）可作为 MCP server 接入，也能直接当 coding-agent skill 用。 |
+| [**cloudishai/skills**](https://github.com/cloudishai/skills) | 部署托管 | ![GitHub Repo stars](https://badgen.net/github/stars/cloudishai/skills) | Cloudish 部署 Skill：把 Dockerfile、源码目录或容器镜像交给 Cloudish 在服务端构建（无需本地 Docker），运行为常驻容器并返回上线网址；支持持久化存储卷与加密密钥，Agent 可免注册自行创建 API 密钥，消费不超过预付额度。附 Claude Code 插件清单。 |
 
 ---
 

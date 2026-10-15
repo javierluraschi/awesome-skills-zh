@@ -531,6 +531,7 @@ Anthropic 官方发布的关于 Agent Skills 的核心指南，是理解技术�
 | :--- | ---: | :--- |
 | [**obra/superpowers**](https://github.com/obra/superpowers) | ![GitHub Repo stars](https://badgen.net/github/stars/obra/superpowers) | 2026 年最具影响力的社区 Skills 框架，已入选官方插件市场，提供一整套可组合的高级 Skill 与工作流。 |
 | [**obra/superpowers-marketplace**](https://github.com/obra/superpowers-marketplace) | ![GitHub Repo stars](https://badgen.net/github/stars/obra/superpowers-marketplace) | Superpowers 配套的 Skills 市场，便于发现、安装与分享社区贡献的 Skills。 |
+| [**ITW-Creative-Works/workkit**](https://github.com/ITW-Creative-Works/workkit) | ![GitHub Repo stars](https://badgen.net/github/stars/ITW-Creative-Works/workkit) | 把 GitHub Issues 变成开发流水线的 Claude Code 插件：每个 issue 按标签经过规格、构建、审查、QA、发布；worker 子代理写代码和测试，verifier 子代理盲审，测试不过不允许提交。含 9 个 `/workkit:*` Skills。 |
 
 #### 📚 大型 Skills 合集
 | 项目 | ⭐ Stars | 简介 |
@@ -610,6 +611,7 @@ Anthropic 官方发布的关于 Agent Skills 的核心指南，是理解技术�
 | [**cloudflare/skills**](https://github.com/cloudflare/skills) | ![GitHub Repo stars](https://badgen.net/github/stars/cloudflare/skills) | Cloudflare 官方出品，教智能体在 Cloudflare 平台（Workers/KV/R2/D1 等）上构建应用的 Skills。 |
 | [**getsentry/skills**](https://github.com/getsentry/skills) | ![GitHub Repo stars](https://badgen.net/github/stars/getsentry/skills) | Sentry 团队日常开发所用的官方 Agent Skills 合集。 |
 | [**google-labs-code/stitch-skills**](https://github.com/google-labs-code/stitch-skills) | ![GitHub Repo stars](https://badgen.net/github/stars/google-labs-code/stitch-skills) | Google Labs 官方出品，配合 Stitch MCP server 使用的 Agent Skills 库，遵循 Agent Skills 开放标准，兼容 Antigravity / Gemini CLI / Claude Code / Cursor 等编码智能体。 |
+| [**vanshyadav1408/Omentir**](https://github.com/vanshyadav1408/Omentir/tree/main/plugins/omentir/skills/linkedin-outreach) | ![GitHub Repo stars](https://badgen.net/github/stars/vanshyadav1408/Omentir) | Omentir 官方出品的 `linkedin-outreach` Skill：通过 Omentir MCP 服务器做 LinkedIn 获客与外联，查找并评估潜在客户、起草消息、查看外联活动。默认只做调研和草稿，用户要求时才发送，智能体全程不登录 LinkedIn。 |
 
 ---
 
@@ -678,6 +680,7 @@ GitHub 上 Star 数最高、最具话题度的单一用途 Skill。它们大多�
 | [**cloudflare/security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | ![GitHub Repo stars](https://badgen.net/github/stars/cloudflare/security-audit-skill) | Cloudflare 官方出品：用于多阶段安全审计的编码 agent skill，产出可独立验证的机读发现。 |
 | [**Eyadkelleh/awesome-claude-skills-security**](https://github.com/Eyadkelleh/awesome-claude-skills-security) | ![GitHub Repo stars](https://badgen.net/github/stars/Eyadkelleh/awesome-claude-skills-security) | 面向授权渗透测试、CTF 与漏洞赏金的安全工具包：精选 SecLists 字典、注入 payload 与专家级 agent。 |
 | [**DeerYang/server-security-init-skill**](https://github.com/DeerYang/server-security-init-skill) | ![GitHub Repo stars](https://badgen.net/github/stars/DeerYang/server-security-init-skill) | 安全初始化与加固全新 Ubuntu/Debian SSH 服务器的 Agent Skill，面向防御性运维（仅用于你有权管理的服务器）。 |
+| [**morluto/rea**](https://github.com/morluto/rea) | ![GitHub Repo stars](https://badgen.net/github/stars/morluto/rea) | 内含 `reverse-engineer-anything` Skill，指导 Claude Code / Codex 通过本地 CLI 与 MCP 分析原生程序、JavaScript/Electron 和 .NET，保留证据来源与未知项；原生深度分析需自备 Hopper、Ghidra 或 IDA。 |
 
 ---
 
@@ -741,6 +744,7 @@ GitHub 上 Star 数最高、最具话题度的单一用途 Skill。它们大多�
 | [**GanymedeNil/poxiaoxing-skills**](https://github.com/GanymedeNil/poxiaoxing-skills) (破晓星) | ![GitHub Repo stars](https://badgen.net/github/stars/GanymedeNil/poxiaoxing-skills) | 知名开发者 [@GanymedeNil](https://github.com/GanymedeNil) 出品的破晓星 Skills 仓库，内含「抖音博主分析」技能：采集博主作品、下载视频、抽取截图，并可选用 DashScope FunASR 转写字幕，输出结构化素材供后续分析。 |
 | [**dososo/blcaptain-ppt-skill**](https://github.com/dososo/blcaptain-ppt-skill) | ![GitHub Repo stars](https://badgen.net/github/stars/dososo/blcaptain-ppt-skill) | AI 原生·单文件 HTML 演示 Skill：7 套锚定公认设计体系的视觉人格，好看（WCAG/间距/32 维审计）与诚实（反伪造）均由机器强制，零依赖。 |
 | [**nathanskill/niubiskill**](https://github.com/nathanskill/niubiskill) | ![GitHub Repo stars](https://badgen.net/github/stars/nathanskill/niubiskill) | 商业化决策 Skill：打断无收入验证的瞎忙——找到离真实收钱最近的一步，二选一（引流 / 成交），停掉一件分散精力的事，并给出 7 天证据测试。 |
+| [**zhuyep/shiji-tongjian-decisions**](https://github.com/zhuyep/shiji-tongjian-decisions) | ![GitHub Repo stars](https://badgen.net/github/stars/zhuyep/shiji-tongjian-decisions) | 史鉴人生抉择：对照《史记》《资治通鉴》原文，比较现实选择、隐性代价与类比边界；附虚构示例和引文核验工具，不作命运预测或专业决策建议。 |
 
 ---
 
@@ -769,6 +773,7 @@ GitHub 上 Star 数最高、最具话题度的单一用途 Skill。它们大多�
 | [**huifer/skill-security-scan**](https://github.com/huifer/skill-security-scan) | 安全扫描 | ![GitHub Repo stars](https://badgen.net/github/stars/huifer/skill-security-scan) | 安装第三方 Skill 前先做安全审查的命令行工具，检测窃取数据或破坏系统的恶意代码。 |
 | [**Xquik-dev/x-twitter-scraper**](https://github.com/Xquik-dev/x-twitter-scraper) | 数据抓取 | ![GitHub Repo stars](https://badgen.net/github/stars/Xquik-dev/x-twitter-scraper) | X/Twitter 数据抓取技能，提供 MCP 服务器与 REST API，含 20 个提取工具。 |
 | [**Continuum-AI-Corp/OrcaReplay**](https://github.com/Continuum-AI-Corp/OrcaReplay) | 运行录制回放 | ![GitHub Repo stars](https://badgen.net/github/stars/Continuum-AI-Corp/OrcaReplay) | 把 Skill / coding agent 与模型 provider 之间的真实请求原样录成本地 trace：`orca replay last` 断网重放，稳定复现一次失败的 Skill 调用；`orca compare` 从同一 checkpoint 换模型对照。自带 `orca mcp`（list/show/checkpoints/graph/replay/compare 六个工具）可作为 MCP server 接入，也能直接当 coding-agent skill 用。 |
+| [**lognorm/lognorm-mcp**](https://github.com/lognorm/lognorm-mcp) | SEO/GEO 增长 | ![GitHub Repo stars](https://badgen.net/github/stars/lognorm/lognorm-mcp) | 托管式 MCP 服务（[lognorm.com](https://lognorm.com)），把网站的 SEO/GEO 增长待办（站点审计、修复、内容草稿、AI 可见度追踪）交给 Claude Code、Codex 和 Cursor 处理；OAuth 登录，无需 API Key，免费方案支持 1 个网站。 |
 | [**cloudishai/skills**](https://github.com/cloudishai/skills) | 部署托管 | ![GitHub Repo stars](https://badgen.net/github/stars/cloudishai/skills) | Cloudish 部署 Skill：把 Dockerfile、源码目录或容器镜像交给 Cloudish 在服务端构建（无需本地 Docker），运行为常驻容器并返回上线网址；支持持久化存储卷与加密密钥，Agent 可免注册自行创建 API 密钥，消费不超过预付额度。附 Claude Code 插件清单。 |
 
 ---
